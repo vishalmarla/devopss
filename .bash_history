@@ -184,3 +184,56 @@ cd devops
 cat devops|grep Devops
 cd ..
 cat f1.txt |grep Devops
+ls
+pwd
+yum install git -y
+sudo apt-get update -y
+sudo apt-get install -y yum
+yum install git -y
+git --version
+git branch
+ls -al
+git init .
+ls -al
+ls
+cat f1.txt
+ls
+git add f1.txt
+git commit -m "text commit"
+git status
+git branch
+git commit -m "text commit" f1.txt
+git status
+git log
+ls
+git add f1.txt
+git commit -m "text commmitted" f1.txt
+git log
+cat f1
+git status
+ls
+git add .
+git commit -m "second commit" .
+git status
+git log
+ls
+git status
+git log
+git remote add origin https://github.com/vishalmarla/devopss.git
+git push -u origin master
+git status
+ls
+git add .
+git commit -m "latest commit" .
+git log
+git remote add origin https://github.com/vishalmarla/devopss.git
+git push -u origin master
+git status
+ll
+touch file2
+git add .
+git commit -m "new commit" .
+git status
+git llog
+git log
+git remote add origin https://github.com/vishalmarla/practise1.git
