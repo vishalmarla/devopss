@@ -1,0 +1,12 @@
+total 20
+drwxrwxrwx 2 root root 4096 Jun 16 01:41 devops
+-rwxrwxrwx 1 root root    0 Jun 16 01:40 f1
+-rwxrwxrwx 1 root root    0 Jun 16 01:47 f1.txt
+-rwxrwxrwx 1 root root    0 Jun 16 01:40 f2
+-rwxrwxrwx 1 root root    0 Jun 16 01:40 f3
+-rwxrwxrwx 1 root root    0 Jun 16 01:40 f4
+drwxrwxrwx 2 root root 4096 Jun 16 01:59 linux
+-rw-r--r-- 1 root root   52 Jun 16 02:21 ls.txt
+drwxrwxrwx 4 root root 4096 Jun 16 01:23 snap
+-rw-r--r-- 1 root root    0 Jun 16 02:23 t1.txt
+drwxr-xr-x 2 root root 4096 Jun 16 02:15 testing

@@ -1,0 +1,10 @@
+devops
+f1
+f1.txt
+f2
+f3
+f4
+linux
+ls.txt
+snap
+testing
